@@ -33,5 +33,5 @@ readinessProbe:
   timeoutSeconds: 1
 terminationGracePeriodSeconds: 10
 mongodb:
-	fullnameOverride: "infra-mongodb"
-	usePassword: false
+  fullnameOverride: "infra-mongodb"
+  usePassword: false
